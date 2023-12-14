@@ -8,4 +8,4 @@ Users can also sort "watchlists" based on their title. They can also sort shows 
 
 Upon closing of the GUI, all data saves into a file. When the user opens the GUI again, the file is read, in turn restoring all data. 
 
-Learned how to implement layout managers (such as FlowLayout, BorderLayout, and GridLayout), custom graphics classes (such as Color and Font), GUI component classes (such as Button, TextField, and Label), GUI container classes (Frame and Panel), and event listener interfaces (such as ActionListener and WindowListener)
+Skills Learned: how to implement layout managers (such as FlowLayout, BorderLayout, and GridLayout), custom graphics classes (such as Color and Font), GUI component classes (such as Button, TextField, and Label), GUI container classes (Frame and Panel), and event listener interfaces (such as ActionListener and WindowListener)
