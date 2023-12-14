@@ -7,3 +7,5 @@ Users can create multiple "watchlists". Within these "watchlists", users can add
 Users can also sort "watchlists" based on their title. They can also sort shows based on their title, status (recommended, planning to watch, watching, completed), genre, tags, and rating. 
 
 Upon closing of the GUI, all data saves into a file. When the user opens the GUI again, the file is read, in turn restoring all data. 
+
+Learned how to implement layout managers (such as FlowLayout, BorderLayout, and GridLayout), custom graphics classes (such as Color and Font), GUI component classes (such as Button, TextField, and Label), GUI container classes (Frame and Panel), and event listener interfaces (such as ActionListener and WindowListener)
